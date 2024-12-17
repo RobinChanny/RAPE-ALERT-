@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241971649520",
+    "project_id": "rapealert-416ea",
+    "storage_bucket": "rapealert-416ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241971649520:android:d9de176f3e82de9b7c9b35",
+        "android_client_info": {
+          "package_name": "com.company.MyAlert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBbyTQYisLCnKSSY4MHCwVpELp0326ZrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
